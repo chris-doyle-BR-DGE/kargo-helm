@@ -1,3 +1,5 @@
 featureFlags:
   FEATURE_AAA: enabled
+  FEATURE_CCC: disabled
   FEATURE_BBB: enabled
+  
